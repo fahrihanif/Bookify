@@ -24,6 +24,7 @@ bld/
 [Ll]ogs/
 .idea/
 .vs
+.DS_Store
 
 # .NET Core
 project.lock.json
